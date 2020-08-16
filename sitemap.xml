@@ -3,7 +3,6 @@
 <url> <loc>https://resourcesaga.github.io/KBI-Financial-DT-Test</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://resourcesaga.github.io/Nodejs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://resourcesaga.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://resourcesaga.github.io/Portfolio</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://resourcesaga.github.io/resourcesaga</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://resourcesaga.github.io/KBI-Financial-DT-Test/1udtf</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://resourcesaga.github.io/KBI-Financial-DT-Test/2dft</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -12,4 +11,6 @@
 <url> <loc>https://resourcesaga.github.io/Nodejs/Nodejs개요</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://resourcesaga.github.io/Portfolio/Academy-Point</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://resourcesaga.github.io/Portfolio/Bongja-Bob</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://resourcesaga.github.io/Portfolio</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://resourcesaga.github.io/Portfolio/ICT-MD</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
