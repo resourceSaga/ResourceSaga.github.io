@@ -2,16 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://resourcesaga.github.io/KBI-Financial-DT-Test</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://resourcesaga.github.io/Nodejs</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://resourcesaga.github.io/Portfolio</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://resourcesaga.github.io/expert/08 파이썬 클래스 특별 메소드</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://resourcesaga.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://resourcesaga.github.io/Portfolio</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://resourcesaga.github.io/expert/05 시퀀스 자료형</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://resourcesaga.github.io/expert/07 Reference참조형</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://resourcesaga.github.io/resourcesaga</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://resourcesaga.github.io/basic/02 print 함수</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://resourcesaga.github.io/expert/06-1 함수형 프로그래밍</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://resourcesaga.github.io/KBI-Financial-DT-Test/1udtf</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://resourcesaga.github.io/basic/05 자료형</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://resourcesaga.github.io/KBI-Financial-DT-Test/2dft</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://resourcesaga.github.io/basic/06 함수 및 람다(lambda)</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://resourcesaga.github.io/expert/09 파이썬 제너레이터</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://resourcesaga.github.io/KBI-Financial-DT-Test/3dft</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://resourcesaga.github.io/basic/09 모듈과 패키지</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://resourcesaga.github.io/expert/11 Concurrency - Future</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://resourcesaga.github.io/KBI-Financial-DT-Test/4dfm</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://resourcesaga.github.io/basic/10 파일 입출력</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://resourcesaga.github.io/Nodejs/Nodejs-intro</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://resourcesaga.github.io/Portfolio/Academy-Point</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://resourcesaga.github.io/Portfolio/Bongja-Bob</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://resourcesaga.github.io/Portfolio/CORONAIS</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://resourcesaga.github.io/Portfolio/ICT-MD</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://resourcesaga.github.io/basic/13 파이썬 SQLite 연동, 테이블 생성 삽입</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://resourcesaga.github.io/basic/01 개발 환경 설정</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://resourcesaga.github.io/basic/03 파이썬 기반 지식</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://resourcesaga.github.io/basic/04 가상 환경 설정 및 패키지 설치</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://resourcesaga.github.io/basic/07 클래스</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://resourcesaga.github.io/basic/08 상속, 다중 상속</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://resourcesaga.github.io/basic/11 에러 및 예외 처리</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://resourcesaga.github.io/basic/12 외부 파일 처리 - csv와 XSL, XLSX</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://resourcesaga.github.io/basic/14 테이블 조회, 조건 조회</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://resourcesaga.github.io/basic/15 테이블 수정, 삭제</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://resourcesaga.github.io/basic/16 타이핑 게임 제작</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://resourcesaga.github.io/expert/01 class 의 재사용</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://resourcesaga.github.io/expert/02 Class 데코레이터</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://resourcesaga.github.io/expert/03 파이썬 데이터 모델 - 네임드튜플</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://resourcesaga.github.io/expert/04 파이썬 스페셜 메소드</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://resourcesaga.github.io/expert/06-2 Closure와 Decorator</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://resourcesaga.github.io/expert/10 코루틴</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://resourcesaga.github.io/expert/12 비동기 - async</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://resourcesaga.github.io/basic</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://resourcesaga.github.io/expert</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
